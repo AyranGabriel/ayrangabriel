@@ -9,7 +9,6 @@
   <img align="center" alt="Ayran-Lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg">
   <img align="center" alt="Ayran-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Ayran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ayran-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" class="animated-gif" alt="Ayran-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/1aTUTJOn3aavLVC6G1/giphy.gif?cid=ecf05e47sook0w8x3onwmrt1pauntm14dkh0qprbqsnoigzn&rid=giphy.gif&ct=g">
 </div>
 
