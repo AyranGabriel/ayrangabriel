@@ -3,7 +3,7 @@
   <img class="animated-gif" height="350" width="1000" src="https://media3.giphy.com/media/GuLLbKFIAfqMw1Y7oc/giphy.gif?cid=790b76112f2574b98f3ee55678a5ed75d6b02f2087ef990d&rid=giphy.gif&ct=g">
 </div>
 
-### Programador Python; Lua e C/C++ apaixonado por inovação e amante da tecnologia! <p> Conta nova!
+### Programador Python e C++| Analista de Dados | Neófito de Inteligência Artificial | Licenciatura em Matemática <p> apaixonado por inovação e amante da tecnologia! <p> Conta nova!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ayran-Lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg">
