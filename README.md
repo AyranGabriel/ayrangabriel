@@ -38,7 +38,7 @@
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				<font face="sans" size="4">
+				<font face="sans" size="3">
 					<a href="#home">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
 					<a href="#">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp;
 					<a href="#">PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -102,7 +102,6 @@ I can offer my skills and expertise to help your business incorporate AI. If you
 			</td>
 		</tr>
 	</table>
-		<hr color="#000"><br>
 		<h3 align="center">
 			<font face="Lato" color="#000" size="5">
 				Creation of Custom Dashboards
@@ -127,7 +126,72 @@ If you are interested in improving your business efficiency and decision-making 
 			</td>
 		</tr>
 	</table>
-		<p align="center">
+		<h3 align="center">
+			<font face="Lato" color="#000" size="5">
+				Mobile Development
+			</font>
+		</h3>
+	<table align="center" border="1" cellspacing="0" rules="none">
+		<tr>
+			<td align="left" width="50%">
+		<p align="left">
+			<font style="font-family:'Courier New'" align="left" face="sans-serif" size="7" color="#f00">As a mobile developer, I offer custom solutions for building applications for mobile devices. Using the latest technologies, such as C++ and C#, I guarantee the creation of apps with high performance and stability. In addition, my expertise in dashboard development allows complete integration between the app and the company's internal systems, providing a better user experience and real-time data analysis. I can help your company stand out in the mobile market.</font>
+		</p>
+			</td>
+			<td align="right">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" alt="Gif1_Ayran_Copyright" height="420" style="border-radius:50px;" 
+					src="https://media0.giphy.com/media/8VkgrPdxMh0oo/giphy.gif?cid=790b761120a4dcb10f2db56d6250e67fefdff692f4aae325&rid=giphy.gif&ct=g">
+				</div>
+			</td>
+		</tr>
+	</table>
+		<h3 align="center">
+			<font face="Lato" color="#000" size="5">
+				Arduino Technology Developer
+			</font>
+		</h3>
+	<table align="center" border="1" cellspacing="0" rules="none">
+		<tr>
+			<td align="left">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" alt="Gif2_Ayran_Copyright" height="420" style="border-radius:50px;" 
+					src="https://media4.giphy.com/media/oo2kzKjEPzgkxiyPTn/giphy.gif?cid=790b761153d03457daa744ba1485b79d4cfe0a37dba5ac7c&rid=giphy.gif&ct=g">
+				</div>
+			</td>
+			<td align="left" width="50%">
+		<p align="left">
+			<font style="font-family:'Courier New'" align="left" face="sans-serif" size="7" color="#f00">As a technology enthusiast, I offer my services for development with Arduino. With my knowledge of programming and electronics, I can help your company create innovative and functional projects using this electronic prototyping platform. Whether for home automation, data monitoring, or industrial projects, I can help turn your ideas into reality.</font>
+		</p>
+			</td>
+		</tr>
+	</table>
+		<h3 align="center">
+			<font face="Lato" color="#000" size="5">
+				Game Developer at Roblox
+			</font>
+		</h3>
+		<h4 align="center">
+			<font face="Lato" color="#000" size="5">
+				EXTRA
+			</font>
+		</h4>
+	<table align="center" border="1" cellspacing="0" rules="none">
+		<tr>
+			<td align="left" width="50%">
+		<p align="left">
+			<font style="font-family:'Courier New'" align="left" face="sans-serif" size="7" color="#f00">Are you looking for a game developer to create the next great adventure in Roblox? Look no further! With years of game development experience and a passion for games, I offer custom development services to create amazing games on Roblox. From adventure games to strategy games, I can help you turn your ideas into reality.</font>
+		</p>
+			</td>
+			<td align="right">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" alt="Gif1_Ayran_Copyright" height="420" style="border-radius:50px;" 
+					src="https://media3.giphy.com/media/YbKvQavA5odoMNOwnk/giphy.gif?cid=ecf05e47yvk4cgngnqmjtbaslgq6yhdcvex4rtx8be81zkxv&rid=giphy.gif&ct=g">
+				</div>
+			</td>
+		</tr>
+	</table>
+		<p align="center"><br><br>
 			<a href="#home">
 		      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="50" alt="logo">
 		      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" alt="logo">
