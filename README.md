@@ -1,20 +1,66 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/ayran-gabriel-9b23ab246/">
-  <img class="animated-gif" height="350" width="1000" src="https://media3.giphy.com/media/GuLLbKFIAfqMw1Y7oc/giphy.gif?cid=790b76112f2574b98f3ee55678a5ed75d6b02f2087ef990d&rid=giphy.gif&ct=g">
-</div>
+<!DOCTYPE html>
+<html>
+<!--                
+                                                  ░░         ░ ░░   ░░    ░░░                           ░         ░ ░░                                
+                                       █▓         ░████▓     ░██▒   ░▒███▓▒▓███▓            ▓█          ▒████▒    ▒██▒                                
+                                      ▓██░          ▓███     ▒█       ███░   ▓███          ░██▓          ▒████▓    ▓▒                                 
+                                     ▒████           ▓███   ▓█        ███░   ░███          ████░         ▓▒░████   ▓▒                                 
+                                    ░█ ████           ▓███ ▒█         ███▒  ░███▒         █ ▒███         ▓▒  ████░ ▓▒                                 
+                                    █   ███▓           ▓███▓          ███▓▓███░          ▓▒  ▓███        ▓▓   ▓███▒▓▒                                 
+                                   ██▒▓▒▓███░           ███           ███  ▓███░        ▒█▒▓▒▒███▓       ▓▓    ░████░                                 
+                                  ▓▓     ▓███           ███           ███░  ░███▓      ░█      ███▒      ▓▒      ▓██░                                 
+                                 ▓█▒      ████▒        ▒███▓         ▒███▓    ████▒   ▒██      ████▒    ░██░      ▒█▒                                 
+                                ░▒▒▒░    ░░░░░▒      ░░▒░  ░        ░▒░░░░░      ▒░   ▒▒▒▒       ░░▒░   ░░░░       ░░                                 
+                          ▒▒▒▒░                               ░░                           ░          ░     ░░░       ░     ░                         
+                       ▓██▓▒▒▓▓███           █▓         ░▒████▒▓███▒     ░▓███▒▒▓███▒      ░████▒░   ░▒████▒▓▓▓██     ░▓███▓░                         
+                     ▓███       ██          ▓██           ███▒   ███▓     ░███    ███▓      ▒███       ███▓     █░      ███                           
+                    ▓███         ▓         ▒████          ███▒   ███▓     ░███    ▓███      ▒███       ███▓  ▓  ░      ░███                           
+                    ███▓                  ▒█ ███▓         ███▓▒▓██▓       ░███   ░███       ▒███       ███▓ ▓█         ░███                           
+                    ███▓     ░░░ ░▒       █   ███▒        ███▓░▒▓██▓      ░███▒████         ▒███       ███▓░██         ░███                           
+                    ████      ████░      ██▒▓▒████        ███▒   ▒███░    ░███  ████        ▒███       ███▓  ▓   ░      ███       ▒  ▒▓█▓▒            
+                     ███▒     ▓███      ▓▓     ▓███       ███▒   ▒███░     ███   ▓███░      ▒███       ███▓      █      ███      ▓█ ▓▒█  ▓▒           
+                      ▒██▓▒░░░████    ░▓█▒      ████░    ░████░▒████░     ▓███▒   ▒███▓░    ████░     ░████░▒▒▒███     ▓███▓▒▒▒▒██▓ ▒▓█▓▒▓░           
+                         ▓▓▓▓▓▒░      ░▒▒▒░    ░░░░▒▒   ░▒▒░░▒▒▒▒░       ▒▒░░░▒░    ░▒▒▒   ▒▒░░▒▒░   ░▒▒░░▒▒▒▒▒▒▒     ░▒░░░▒▒▒▒▒▒▒   ░▒▒▒    -->   
 
+
+<head>
+<link rel="icon" href="https://www.linkedin.com/in/ayran-gabriel-9b23ab246/">
+</head>
+  
+<body bgcolor="$0b1116" style="color:white;font-family:verdana">
+<table border="0" width="1300" height="500" align="center" celispacing="4" cellpadding="7"
+background="car1.png" align="center">
+  
+<tr height="50">
+
+<td width="580"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" alt="logo"></td>
+
+<td align="center" width="150" height="50" ><a href="BMWwebpage.html" title="Go to Home"><button
+class="button" style="width:100;height:30;background-
+color:40b1116;border:0;color:white"><b><big>HOME</big></b></button></a></td>
+
+<td align="center" width="150" height="50" ><a href="faboutus" title="Go to About"><button class="button”
+style="width:100;height:30;background-
+color:40b1116;border:0;color:white"><b><big>ABOUT</big></b></button></a></td>
+
+<td align="center" width="150" height="50" ><a href="Hgalley" title="Go to Gallery"><button class="button"
+style="width:100;height:30;background-
+color:40b1116;border:0;color:white"><b><big>GALLERY</big></b></button></a></td>
+
+<td align="center" width="150" height="50" ><a href="ficontactus" title="Go to Contact "><button class="button”
+style="width:150;height:30;background-color:40b1116;border:0;color:white"><b><big>CONTACT
+US</big></b></button></a></td>
+
+</table>
+  
 ### Programador Python e C++| Analista de Dados | Neófito de Inteligência Artificial | Licenciatura em Matemática <p> apaixonado por inovação e amante da tecnologia! <p> Conta nova!
+  
+<td align="center width="30" ><a href="https://www.linkedin.com/in/ayran-gabriel-9b23ab246/" title="LanguageC"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
+width="30" height="30"></a></td>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ayran-Lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg">
-  <img align="center" alt="Ayran-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Ayran-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" class="animated-gif" alt="Ayran-pic" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/1aTUTJOn3aavLVC6G1/giphy.gif?cid=ecf05e47sook0w8x3onwmrt1pauntm14dkh0qprbqsnoigzn&rid=giphy.gif&ct=g">
-</div>
+<td align="center width="30" ><a href="https://www.linkedin.com/in/ayran-gabriel-9b23ab246/" title="GitIcon"> <img
+src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg”
+width="30" height="30"></a></td>
 
-  ##
- 
-<div> 
-  <a href = "mailto:ayran.labor@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ayran-gabriel-9b23ab246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</body>
+</html>
