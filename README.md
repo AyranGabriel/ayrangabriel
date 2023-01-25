@@ -40,8 +40,9 @@
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				<font face="sans" align="right" size="3">
 					<a href="#home">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="#">WHO AM I?</a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="#">SERVICES</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="#WHOAMI">WHO AM I?</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="#SERVICES">SERVICES</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="#PROJECTS">PROJECTS</a>&nbsp;&nbsp;&nbsp;&nbsp;
 					<a href="#">CONTACT ME</a>
 				</font>
 			</h3>
@@ -72,7 +73,7 @@
 			</h3>
 		</div>
 		<hr color="#000">
-		<h2 align="center">
+		<h2 align="center" class="main" id="SERVICES">
 			<font face="Lato" color="#000" size="5">
 				SERVICES
 			</font>
@@ -139,7 +140,7 @@ If you are interested in improving your business efficiency and decision-making 
 			</td>
 			<td align="right">
 				<div style="display: inline_block"><br>
-					<img align="right" class="animated-gif" alt="Gif1_Ayran_Copyright" height="420" style="border-radius:50px;" 
+					<img align="right" class="animated-gif" alt="Gif3_Ayran_Copyright" height="420" style="border-radius:50px;" 
 					src="https://media0.giphy.com/media/8VkgrPdxMh0oo/giphy.gif?cid=790b761120a4dcb10f2db56d6250e67fefdff692f4aae325&rid=giphy.gif&ct=g">
 				</div>
 			</td>
@@ -154,7 +155,7 @@ If you are interested in improving your business efficiency and decision-making 
 		<tr>
 			<td align="left">
 				<div style="display: inline_block"><br>
-					<img align="right" class="animated-gif" alt="Gif2_Ayran_Copyright" height="420" style="border-radius:50px;" 
+					<img align="right" class="animated-gif" alt="Gif4_Ayran_Copyright" height="420" style="border-radius:50px;" 
 					src="https://media4.giphy.com/media/oo2kzKjEPzgkxiyPTn/giphy.gif?cid=790b761153d03457daa744ba1485b79d4cfe0a37dba5ac7c&rid=giphy.gif&ct=g">
 				</div>
 			</td>
@@ -193,8 +194,110 @@ With my game development skills, I can create custom games according to your nee
 			</td>
 			<td align="right">
 				<div style="display: inline_block"><br>
-					<img align="right" class="animated-gif" alt="Gif1_Ayran_Copyright" height="420" style="border-radius:50px;" 
+					<img align="right" class="animated-gif" alt="Gif5_Ayran_Copyright" height="420" style="border-radius:50px;" 
 					src="https://thumbs.gfycat.com/FaroffGracefulBoto-size_restricted.gif">
+				</div>
+			</td>
+		</tr>
+	</table>		
+	<hr color="#000"><br><br><br>
+		<h2 align="center" class="main" id="PROJECTS">
+			<font face="Lato" color="#000" size="5">
+				PROJECTS
+			</font>
+		</h2>
+		<h3 align="center">
+			<font face="Lato" color="#000" size="5">
+				Artificial Intelligence (AI)
+			</font>
+		</h3>
+	<table align="left" border="1" cellspacing="0" rules="none" >
+		<tr>
+			<td align="left" width="50%">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					src="https://spectrumnews-web-assets.s3.amazonaws.com/wp-content/uploads/2021/10/07115433/pupil_2_4.gif">
+				</div>
+			</td>
+			<td align="right">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					src="https://www.freecodecamp.org/news/content/images/2021/05/hand.gif">
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" width="50%">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					src="https://static.wixstatic.com/media/cec54d_9759aeb90e4c4554a490e0839930496f~mv2.gif">
+				</div>
+			</td>
+			<td align="right">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					src="https://www.cultofmac.com/wp-content/uploads/2016/06/lidar.gif">
+				</div>
+			</td>
+		</tr>
+	</table><h3 align="center">
+			<font face="Lato" color="#000" size="5">
+				Creation of Custom Dashboards
+			</font>
+		</h3>
+	<table align="left" border="1" cellspacing="0" rules="none" >
+		<tr>
+			<td align="left" width="50%">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					src="https://i.pinimg.com/originals/e8/17/30/e817307c30b7db4d63f3e88df4411c8f.gif">
+				</div>
+			</td>
+			<td align="right">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					src="https://thumbs.gfycat.com/AptMelodicItaliangreyhound-size_restricted.gif">
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" width="50%">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					src="https://i.pinimg.com/originals/49/22/13/4922134f0e15de390dee8c8919adc7e8.gif">
+				</div>
+			</td>
+			<td align="right">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					src="https://i.pinimg.com/originals/35/ce/42/35ce42ebebbe88e4b62578124943b021.gif">
+				</div>
+			</td>
+		</tr>
+	</table>
+		<hr color="#000"><br><br><br>
+		<h2 align="center" class="main" id="WHOAMI">
+			<font face="Lato" color="#000" size="5">
+				WHO AM I?
+			</font>
+		</h2>
+	<table align="center" border="1" cellspacing="0" rules="none" >
+		<tr>
+			<td align="left" width="50%">
+		<p align="left">
+			<font style="font-family:'Courier New'" align="left" face="sans-serif" size="7" color="#f00">
+				I am a mathematics undergraduate at UFBA (Federal University of Bahia) and I studied Electromechanics at IFBA (Federal Institute of Education, Science and Technology of Bahia). There I learned about several industrial processes such as; programming (Python, Software Development, Machine Language, Mobile Development and Auto. Residential/Industrial Auto.)
+I participated in several research and extension projects during the course, always focusing on developing technological means to improve the performance or operation of a given task.
+
+Currently I am working on a project of a virtual assistant optimized to solve day-to-day problems, ranging from scheduling a simple meeting, to turning on the air conditioning before you arrive, to turning on the house lights as soon as your wifi connects, among other things. 
+
+This project counts with a team of young enthusiasts that are attending or have attended college, be it Computer Science, Software Engineering, Hardware Engineering, Mathematics, Statistics and others.</font>
+		</p>
+			</td>
+			<td align="right">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" alt="Gif6_Ayran_Copyright" height="420" style="border-radius:50px;" 
+					src="https://media.licdn.com/dms/image/C4D22AQFYzmKrI6ru6Q/feedshare-shrink_800/0/1662387768147?e=1677715200&v=beta&t=gKKMEMtIb31blWRcR6GjnperpOzv4edl6j9M6rIVdeg">
 				</div>
 			</td>
 		</tr>
