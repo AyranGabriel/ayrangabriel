@@ -201,9 +201,9 @@ If you are interested in improving your business efficiency and decision-making 
 		      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" alt="logo">
 		      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" alt="logo">
 		      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" alt="logo">
-		      <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" width="50" alt="logo">
+		      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" width="50" alt="logo">
 		      <img src="https://www.svgrepo.com/download/217740/android.svg" width="50" alt="logo">
-		      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" alt="logo">
+		      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" width="50" alt="logo">
 		      </a>
 		</p>
 		<p align="center">
