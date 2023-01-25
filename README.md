@@ -64,7 +64,7 @@
 			</h3>
 			<br />
 			<h3 align="center">
-			<a href = "mailto:ayran.labor@gmail.com">
+			<a href = "https://accounts.google.com">
 				<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 			</a>  
 			<a href="https://www.linkedin.com/in/ayran-gabriel-9b23ab246/" target="_blank">
