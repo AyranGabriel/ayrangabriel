@@ -199,8 +199,8 @@ With my game development skills, I can create custom games according to your nee
 				</div>
 			</td>
 		</tr>
-	</table>		
-	<hr color="#000"><br><br><br>
+	</table><br><br><br>		
+	<hr color="#000">
 		<h2 align="center" class="main" id="PROJECTS">
 			<font face="Lato" color="#000" size="5">
 				PROJECTS
@@ -274,8 +274,8 @@ With my game development skills, I can create custom games according to your nee
 				</div>
 			</td>
 		</tr>
-	</table>
-		<hr color="#000"><br><br><br>
+	</table><br><br><br>
+		<hr color="#000">
 		<h2 align="center" class="main" id="WHOAMI">
 			<font face="Lato" color="#000" size="5">
 				WHO AM I?
