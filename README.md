@@ -32,13 +32,13 @@
 <body link="#000" alink="#017bf5" vlink="#000">
 		<div>
 			<h3 align="center">
-				<a href="#home"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg"  class="main" id="home" width="150" align="left" alt="logo"></a>
+				<a href="#home"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg"  class="main" id="home" width="15%" align="left" alt="logo"></a>
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				<div align="right">
-					<font face="sans" align="left" size="3">
+					<font face="sans" align="center" size="3">
 						<a href="#home">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
 						<a href="#WHOAMI">WHO AM I?</a>&nbsp;&nbsp;&nbsp;&nbsp;
 						<a href="#SERVICES">SERVICES</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,7 +48,6 @@
 				</div>
 			</h3>
       <div align="center">
-	<br /><br /><br />
       <a href="#home"><img class="animated-gif" height="550" width="1200" src="https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=790b7611c17ecb6bfa77a65f7ca30885f3baf54831532792&rid=giphy.gif&ct=g"></a>
     </div>
       <!--
