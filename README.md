@@ -42,7 +42,7 @@
 						<a href="#home">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
 						<a href="#WHOAMI">WHO AM I?</a>&nbsp;&nbsp;&nbsp;&nbsp;
 						<a href="#SERVICES">SERVICES</a>&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="#PROJECTS">PROJECTS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="#GALLERY">PROJECTS</a>&nbsp;&nbsp;&nbsp;&nbsp;
 						<!--<a href="#">CONTACT ME</a>-->
 					</font>
 				</div>
@@ -203,9 +203,9 @@ With my game development skills, I can create custom games according to your nee
 		</tr>
 	</table><br><br><br>		
 	<hr color="#000">
-		<h2 align="center" class="main" id="PROJECTS">
+		<h2 align="center" class="main" id="GALLERY">
 			<font face="Lato" color="#000" size="5">
-				PROJECTS
+				GALLERY
 			</font>
 		</h2>
 		<h3 align="center">
