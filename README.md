@@ -241,7 +241,7 @@ With my game development skills, I can create custom games according to your nee
 			</td>
 		</tr>
 	</table>
-	<h3 align="center"><br><br>
+	<h3 align="center">
 			<font face="Lato" color="#000" size="5">
 				Creation of Custom Dashboards
 			</font>
@@ -276,7 +276,7 @@ With my game development skills, I can create custom games according to your nee
 			</td>
 		</tr>
 	</table>
-	<h3 align="center"><br><br>
+	<h3 align="center">
 			<font face="Lato" color="#000" size="5">
 				Mobile Development
 			</font>
@@ -311,7 +311,42 @@ With my game development skills, I can create custom games according to your nee
 			</td>
 		</tr>
 	</table>
-		<hr color="#000"><br><br><br>
+	<h3 align="center">
+			<font face="Lato" color="#000" size="5">
+				Game Development at Roblox
+			</font>
+		</h3>
+	<table align="left" border="1" cellspacing="0" rules="none" >
+		<tr>
+			<td align="left" width="50%">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
+					src="https://i.gyazo.com/671b5ce915be73076b3c319829b32a97.gif">
+				</div>
+			</td>
+			<td align="right">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
+					src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/e/f/d/efd7701201273ba9c2a7a261b3237fef3c38bdb4.gif">
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" width="50%">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
+					src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/f/2/8/f28a120858f8e407cc97dfeb28f5817a76fc04f8.gif">
+				</div>
+			</td>
+			<td align="right">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
+					src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/3/c/6/3c6c2df5e1d651ff160038d0b93f915c8fb9cb7d.gif">
+				</div>
+			</td>
+		</tr>
+	</table><br><br><br>
+		<hr color="#000">
 		<h2 align="center" class="main" id="WHOAMI">
 			<font face="Lato" color="#000" size="5">
 				WHO AM I?
