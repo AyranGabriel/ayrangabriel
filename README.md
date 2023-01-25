@@ -31,23 +31,25 @@
 </head>
 <body link="#000" alink="#017bf5" vlink="#000">
 		<div class="main" id="home">
-			<br />
 			<h3 align="center">
-				<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" alt="logo">
+				<a href="#home"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" width="150" align="left" alt="logo"></a>
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				<font face="sans" align="right" size="3">
-					<a href="#home">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="#WHOAMI">WHO AM I?</a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="#SERVICES">SERVICES</a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="#PROJECTS">PROJECTS</a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<!--<a href="#">CONTACT ME</a>-->
-				</font>
+				<div align="right">
+					<font face="sans" align="left" size="3">
+						<a href="#home">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="#WHOAMI">WHO AM I?</a>&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="#SERVICES">SERVICES</a>&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="#PROJECTS">PROJECTS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+						<!--<a href="#">CONTACT ME</a>-->
+					</font>
+				</div>
 			</h3>
       <div align="center">
-      <img class="animated-gif" height="550" width="1200" src="https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=790b7611c17ecb6bfa77a65f7ca30885f3baf54831532792&rid=giphy.gif&ct=g">
+	<br /><br /><br />
+      <a href="#home"><img class="animated-gif" height="550" width="1200" src="https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=790b7611c17ecb6bfa77a65f7ca30885f3baf54831532792&rid=giphy.gif&ct=g"></a>
     </div>
       <!--
 			<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br><br><br> 
@@ -367,8 +369,8 @@ This project counts with a team of young enthusiasts that are attending or have 
 			</td>
 			<td align="right">
 				<div style="display: inline_block"><br>
-					<img align="right" class="animated-gif" alt="Gif6_Ayran_Copyright" height="420" style="border-radius:50px;" 
-					src="https://media.licdn.com/dms/image/C4D22AQFYzmKrI6ru6Q/feedshare-shrink_800/0/1662387768147?e=1677715200&v=beta&t=gKKMEMtIb31blWRcR6GjnperpOzv4edl6j9M6rIVdeg">
+					<a href="https://www.linkedin.com/posts/ayran-gabriel-9b23ab246_obmep-matematica-ifba-activity-6972559674445316098-YJzL?utm_source=share&utm_medium=member_desktop"><img align="right" class="animated-gif" alt="Gif6_Ayran_Copyright" height="420" style="border-radius:50px;" 
+					src="https://media.licdn.com/dms/image/C4D22AQFYzmKrI6ru6Q/feedshare-shrink_800/0/1662387768147?e=1677715200&v=beta&t=gKKMEMtIb31blWRcR6GjnperpOzv4edl6j9M6rIVdeg"></a>
 				</div>
 			</td>
 		</tr>
