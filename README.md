@@ -134,7 +134,7 @@ If you are interested in improving your business efficiency and decision-making 
 		<tr>
 			<td align="left" width="50%">
 		<p align="left">
-			<font style="font-family:'Courier New'" align="left" face="sans-serif" size="7" color="#f00">As a mobile developer, I offer custom solutions for building applications for mobile devices. Using the latest technologies, such as C++ and C#, I guarantee the creation of apps with high performance and stability. In addition, my expertise in dashboard development allows complete integration between the app and the company's internal systems, providing a better user experience and real-time data analysis. I can help your company stand out in the mobile market.</font>
+			<font style="font-family:'Courier New'" align="left" face="sans-serif" size="7" color="#f00">As an application developer, I offer my services to companies and individuals who want to bring technology into their daily operations. Especially in dashboards, I can create custom, intuitive interfaces to track important metrics and make informed decisions. With the ever-growing use of smartphones and tablets, having access to this information anywhere and at any time becomes increasingly crucial. What's more, with increasing integration between computer applications and software, it is possible to automate processes and maximize efficiency. If you are looking for an application developer that specializes in dashboards, please do not hesitate to get in touch to discuss how I can help you achieve your business goals.</font>
 		</p>
 			</td>
 			<td align="right">
@@ -147,7 +147,7 @@ If you are interested in improving your business efficiency and decision-making 
 	</table>
 		<h3 align="center">
 			<font face="Lato" color="#000" size="5">
-				Arduino Technology Developer
+				Arduino Technology Development
 			</font>
 		</h3>
 	<table align="center" border="1" cellspacing="0" rules="none">
@@ -160,14 +160,18 @@ If you are interested in improving your business efficiency and decision-making 
 			</td>
 			<td align="left" width="50%">
 		<p align="left">
-			<font style="font-family:'Courier New'" align="left" face="sans-serif" size="7" color="#f00">As a technology enthusiast, I offer my services for development with Arduino. With my knowledge of programming and electronics, I can help your company create innovative and functional projects using this electronic prototyping platform. Whether for home automation, data monitoring, or industrial projects, I can help turn your ideas into reality.</font>
+			<font style="font-family:'Courier New'" align="left" face="sans-serif" size="7" color="#f00">As a developer in the field of home and industrial automation, I offer customized solutions to meet your specific needs.
+
+The automation market is constantly growing and evolving, and I am always up to date with the latest trends and technologies to ensure that you are always one step ahead. Whether you are a small business owner or an automation engineer, I can help you make the most of automation's potential.
+
+From design to implementation, I work with you to develop efficient and effective solutions. With my programming skills and my extensive experience with electronics, I can help you automate anything from your smart home to your factory.</font>
 		</p>
 			</td>
 		</tr>
 	</table>
 		<h3 align="center">
 			<font face="Lato" color="#000" size="5">
-				Game Developer at Roblox
+				Game Development at Roblox
 			</font>
 		</h3>
 		<h4 align="center">
@@ -179,7 +183,12 @@ If you are interested in improving your business efficiency and decision-making 
 		<tr>
 			<td align="left" width="50%">
 		<p align="left">
-			<font style="font-family:'Courier New'" align="left" face="sans-serif" size="7" color="#f00">Are you looking for a game developer to create the next great adventure in Roblox? Look no further! With years of game development experience and a passion for games, I offer custom development services to create amazing games on Roblox. From adventure games to strategy games, I can help you turn your ideas into reality.</font>
+			<font style="font-family:'Courier New'" align="left" face="sans-serif" size="7" color="#f00">If you are looking for an experienced and passionate Roblox game developer, you have come to the right place. With years of experience creating amazing games and entertaining gamers around the world, I am the ideal professional to help turn your idea into reality.
+
+Today, the gaming market is constantly growing. With the popularity of digital games increasing every day, now is the best time to invest in a custom game. I can help you create an attractive and engaging Roblox game that will appeal to players of all ages and skill levels.
+
+With my game development skills, I can create custom games according to your needs and desires. Whether you want a fun and simple game, or something more complex and challenging, I can make it happen.
+</font>
 		</p>
 			</td>
 			<td align="right">
