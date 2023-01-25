@@ -42,7 +42,7 @@
 						<a href="#home">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
 						<a href="#WHOAMI">WHO AM I?</a>&nbsp;&nbsp;&nbsp;&nbsp;
 						<a href="#SERVICES">SERVICES</a>&nbsp;&nbsp;&nbsp;&nbsp;
-						<a href="#GALLERY">PROJECTS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+						<a href="#GALLERY">GALLERY</a>&nbsp;&nbsp;&nbsp;&nbsp;
 						<!--<a href="#">CONTACT ME</a>-->
 					</font>
 				</div>
