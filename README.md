@@ -215,13 +215,13 @@ With my game development skills, I can create custom games according to your nee
 		<tr>
 			<td align="left" width="50%">
 				<div style="display: inline_block"><br>
-					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
 					src="https://spectrumnews-web-assets.s3.amazonaws.com/wp-content/uploads/2021/10/07115433/pupil_2_4.gif">
 				</div>
 			</td>
 			<td align="right">
 				<div style="display: inline_block"><br>
-					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
 					src="https://www.freecodecamp.org/news/content/images/2021/05/hand.gif">
 				</div>
 			</td>
@@ -229,18 +229,19 @@ With my game development skills, I can create custom games according to your nee
 		<tr>
 			<td align="left" width="50%">
 				<div style="display: inline_block"><br>
-					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
 					src="https://static.wixstatic.com/media/cec54d_9759aeb90e4c4554a490e0839930496f~mv2.gif">
 				</div>
 			</td>
 			<td align="right">
 				<div style="display: inline_block"><br>
-					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
 					src="https://www.cultofmac.com/wp-content/uploads/2016/06/lidar.gif">
 				</div>
 			</td>
 		</tr>
-	</table><h3 align="center">
+	</table>
+	<h3 align="center"><br><br>
 			<font face="Lato" color="#000" size="5">
 				Creation of Custom Dashboards
 			</font>
@@ -249,13 +250,13 @@ With my game development skills, I can create custom games according to your nee
 		<tr>
 			<td align="left" width="50%">
 				<div style="display: inline_block"><br>
-					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
 					src="https://i.pinimg.com/originals/e8/17/30/e817307c30b7db4d63f3e88df4411c8f.gif">
 				</div>
 			</td>
 			<td align="right">
 				<div style="display: inline_block"><br>
-					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
 					src="https://thumbs.gfycat.com/AptMelodicItaliangreyhound-size_restricted.gif">
 				</div>
 			</td>
@@ -263,19 +264,54 @@ With my game development skills, I can create custom games according to your nee
 		<tr>
 			<td align="left" width="50%">
 				<div style="display: inline_block"><br>
-					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
 					src="https://i.pinimg.com/originals/49/22/13/4922134f0e15de390dee8c8919adc7e8.gif">
 				</div>
 			</td>
 			<td align="right">
 				<div style="display: inline_block"><br>
-					<img align="right" class="animated-gif" height="100%" style="border-radius:50px;" 
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
 					src="https://i.pinimg.com/originals/35/ce/42/35ce42ebebbe88e4b62578124943b021.gif">
 				</div>
 			</td>
 		</tr>
-	</table><br><br><br>
-		<hr color="#000">
+	</table>
+	<h3 align="center"><br><br>
+			<font face="Lato" color="#000" size="5">
+				Mobile Development
+			</font>
+		</h3>
+	<table align="left" border="1" cellspacing="0" rules="none" >
+		<tr>
+			<td align="left" width="50%">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
+					src="https://j.gifs.com/n517P7.gif">
+				</div>
+			</td>
+			<td align="right">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
+					src="https://cdn.dribbble.com/users/1522855/screenshots/5698531/mobile_app_dashboard.gif">
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" width="50%">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
+					src="https://www.inpixon.com/hs-fs/hubfs/screenshots/Enterprise-GIF.gif?width=300&name=Enterprise-GIF.gif">
+				</div>
+			</td>
+			<td align="right">
+				<div style="display: inline_block"><br>
+					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
+					src="https://cdn.dribbble.com/users/766373/screenshots/5389172/wp-mobile.gif">
+				</div>
+			</td>
+		</tr>
+	</table>
+		<hr color="#000"><br><br><br>
 		<h2 align="center" class="main" id="WHOAMI">
 			<font face="Lato" color="#000" size="5">
 				WHO AM I?
