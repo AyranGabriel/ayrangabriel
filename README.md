@@ -43,7 +43,7 @@
 					<a href="#WHOAMI">WHO AM I?</a>&nbsp;&nbsp;&nbsp;&nbsp;
 					<a href="#SERVICES">SERVICES</a>&nbsp;&nbsp;&nbsp;&nbsp;
 					<a href="#PROJECTS">PROJECTS</a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="#">CONTACT ME</a>
+					<!--<a href="#">CONTACT ME</a>-->
 				</font>
 			</h3>
       <div align="center">
@@ -345,14 +345,14 @@ With my game development skills, I can create custom games according to your nee
 				</div>
 			</td>
 		</tr>
-	</table><br><br><br>
+	</table>
 		<hr color="#000">
-		<h2 align="center" class="main" id="WHOAMI">
+		<h2 align="center">
 			<font face="Lato" color="#000" size="5">
 				WHO AM I?
 			</font>
 		</h2>
-	<table align="center" border="1" cellspacing="0" rules="none" >
+	<table align="center" border="1" cellspacing="0" rules="none" class="main" id="WHOAMI">
 		<tr>
 			<td align="left" width="50%">
 		<p align="left">
