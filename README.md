@@ -38,12 +38,11 @@
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-				<font face="sans" size="3">
+				<font face="sans" align="right" size="3">
 					<a href="#home">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="#">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="#">PORTFOLIO</a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="#">BLOG</a>&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="#">CONTACT US</a>
+					<a href="#">WHO AM I?</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="#">SERVICES</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="#">CONTACT ME</a>
 				</font>
 			</h3>
       <div align="center">
