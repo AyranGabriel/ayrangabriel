@@ -78,15 +78,20 @@
 			<a href="#home">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" width="50" alt="logo">
       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" alt="logo">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" alt="logo">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50" alt="logo">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" width="50" alt="logo">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="45" alt="logo">
+      <img src="https://static.cdnlogo.com/logos/c/68/c-sharp-350x350.png" width="50" alt="logo">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" alt="logo">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" alt="logo">
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50" alt="logo">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" width="50" alt="logo">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="50" alt="logo">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" alt="logo">
       </a>
 		</p>
 		<p align="center">
 			<font face="sans-serif" size="4" color="#000">
-				Turning ideas into smart solutions.
+				Turning ideas into smart solutions. 2023©
 			</font>
 		</p>
 </body>
