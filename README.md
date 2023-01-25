@@ -66,10 +66,10 @@
 			</h3>
 			<br />
 			<h3 align="center">
-			<a href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCMpwnbBDRRzdBVBrQfvGwvrlNZztFMQpBQDcSrXbllWbNqCgsgJVZDJbRSFhNzrfHRmQb">
+			<a href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCMpwnbBDRRzdBVBrQfvGwvrlNZztFMQpBQDcSrXbllWbNqCgsgJVZDJbRSFhNzrfHRmQb" target="_blank" rel="noopener noreferrer">
 				<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 			</a>  
-			<a href="https://www.linkedin.com/in/ayran-gabriel-9b23ab246/" target="_blank">
+			<a href="https://www.linkedin.com/in/ayran-gabriel-9b23ab246/" target="_blank" rel="noopener noreferrer">
 				<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 			</a> 
 			</h3>
@@ -369,7 +369,7 @@ This project counts with a team of young enthusiasts that are attending or have 
 			</td>
 			<td align="right">
 				<div style="display: inline_block"><br>
-					<a href="https://www.linkedin.com/posts/ayran-gabriel-9b23ab246_obmep-matematica-ifba-activity-6972559674445316098-YJzL?utm_source=share&utm_medium=member_desktop"><img align="right" class="animated-gif" alt="Gif6_Ayran_Copyright" height="420" style="border-radius:50px;" 
+					<a href="https://www.linkedin.com/posts/ayran-gabriel-9b23ab246_obmep-matematica-ifba-activity-6972559674445316098-YJzL?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noopener noreferrer"><img align="right" class="animated-gif" alt="Gif6_Ayran_Copyright" height="420" style="border-radius:50px;" 
 					src="https://media.licdn.com/dms/image/C4D22AQFYzmKrI6ru6Q/feedshare-shrink_800/0/1662387768147?e=1677715200&v=beta&t=gKKMEMtIb31blWRcR6GjnperpOzv4edl6j9M6rIVdeg"></a>
 				</div>
 			</td>
