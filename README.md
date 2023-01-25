@@ -30,9 +30,9 @@
 
 </head>
 <body link="#000" alink="#017bf5" vlink="#000">
-		<div class="main" id="home">
+		<div>
 			<h3 align="center">
-				<a href="#home"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" width="150" align="left" alt="logo"></a>
+				<a href="#home"><img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg"  class="main" id="home" width="150" align="left" alt="logo"></a>
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
