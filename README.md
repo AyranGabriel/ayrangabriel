@@ -73,15 +73,15 @@
 			</h3>
 		</div>
 		<hr color="#000">
-	<table align="center">
+	<table align="center" border="1" cellspacing="0" rules="none">
 		<tr>
-			<td align="left">
+			<td align="left" width="50%">
 		<p align="left">
-			<font style="font-family:'Courier New'" align="left" face="sans-serif" size="7" color="#f00">Artificial intelligence (AI) is a constantly evolving field that is <br> changing the way companies operate and relate to their <br> customers. As an enthusiast and passionate technology enthusiast, <br> my skills and knowledge are sure to help companies incorporate AI <br> into their business.
+			<font style="font-family:'Courier New'" align="left" face="sans-serif" size="7" color="#f00">Artificial intelligence (AI) is a constantly evolving field that is changing the way companies operate and relate to their customers. As an enthusiast and passionate technology enthusiast, my skills and knowledge are sure to help companies incorporate AI into their business.
 
-AI allows you to automate repetitive tasks, improve the accuracy <br> and efficiency of processes, and provide valuable insights from <br> large data sets. This can help companies make more informed <br> decisions, increase customer satisfaction, and maximize their profits.
+AI allows you to automate repetitive tasks, improve the accuracy and efficiency of processes, and provide valuable insights from large data sets. This can help companies make more informed decisions, increase customer satisfaction, and maximize their profits.
 
-I can offer my skills and expertise to help your business incorporate AI. <br> If you are looking for a way to increase your company's efficiency and <br> profitability, or simply want to learn more about how AI can benefit <br> your company, please contact me. I look forward to helping <br> you achieve your goals with AI.</font>
+I can offer my skills and expertise to help your business incorporate AI. If you are looking for a way to increase your company's efficiency and profitability, or simply want to learn more about how AI can benefit your company, please contact me. I look forward to helping you achieve your goals with AI.</font>
 		</p>
 			</td>
 			<td align="right">
