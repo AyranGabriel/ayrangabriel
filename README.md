@@ -185,7 +185,7 @@ If you are interested in improving your business efficiency and decision-making 
 			<td align="right">
 				<div style="display: inline_block"><br>
 					<img align="right" class="animated-gif" alt="Gif1_Ayran_Copyright" height="420" style="border-radius:50px;" 
-					src="https://media4.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47t30msp59e7ysk2efzh0cetzoinfk5ejf0ovoq8xf&rid=giphy.gif&ct=g">
+					src="https://thumbs.gfycat.com/FaroffGracefulBoto-size_restricted.gif">
 				</div>
 			</td>
 		</tr>
