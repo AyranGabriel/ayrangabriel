@@ -64,12 +64,12 @@
 			</h3>
 			<br />
 			<h3 align="center">
-			<a href="#">
-				<font face="Lato" color="#000">GET STARTED</font>
-			</a>&nbsp;&nbsp;&nbsp;&nbsp;
-			<a href="#">
-				<font face="Lato" color="#f00">SUBSCRIBE US</font>
-			</a>
+			<a href = "mailto:ayran.labor@gmail.com">
+				<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+			</a>  
+			<a href="https://www.linkedin.com/in/ayran-gabriel-9b23ab246/" target="_blank">
+				<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+			</a> 
 			</h3>
 		</div>
 		<br><br><br><br><br>
