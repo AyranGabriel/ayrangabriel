@@ -73,6 +73,16 @@
 			</h3>
 		</div>
 		<hr color="#000">
+		<h2 align="center">
+			<font face="Lato" color="#000" size="5">
+				SERVICES
+			</font>
+		</h2>
+		<h3 align="center">
+			<font face="Lato" color="#000" size="5">
+				Artificial Intelligence (AI)
+			</font>
+		</h3>
 	<table align="center" border="1" cellspacing="0" rules="none">
 		<tr>
 			<td align="left" width="50%">
@@ -93,21 +103,26 @@ I can offer my skills and expertise to help your business incorporate AI. If you
 		</tr>
 	</table>
 		<hr color="#000"><br>
-	<table align="center">
+		<h3 align="center">
+			<font face="Lato" color="#000" size="5">
+				Creation of Custom Dashboards
+			</font>
+		</h3>
+	<table align="center" border="1" cellspacing="0" rules="none">
 		<tr>
 			<td align="left">
 				<div style="display: inline_block"><br>
 					<img align="right" class="animated-gif" alt="Gif2_Ayran_Copyright" height="420" style="border-radius:50px;" 
-					src="https://media3.giphy.com/media/Vd375sC9LypcTkx7jr/200.webp?cid=ecf05e47l4gz74knz1z4tnody5ffgm2qsimr2o7tixogcak9&rid=200.webp&ct=g">
+					src="https://media2.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=790b76110fb380e76fd333e4575b1d22941573b2a0c90e0d&rid=giphy.gif&ct=g">
 				</div>
 			</td>
-			<td align="right">
-		<p align="right">
-			<font style="font-family:'Courier New'" align="right" face="sans-serif" size="7" color="#f00">Artificial intelligence (AI) is a constantly evolving field that is <br> changing the way companies operate and relate to their <br> customers. As an enthusiast and passionate technology enthusiast, <br> my skills and knowledge are sure to help companies incorporate AI <br> into their business.
-
-AI allows you to automate repetitive tasks, improve the accuracy <br> and efficiency of processes, and provide valuable insights from <br> large data sets. This can help companies make more informed <br> decisions, increase customer satisfaction, and maximize their profits.
-
-I can offer my skills and expertise to help your business incorporate AI. <br> If you are looking for a way to increase your company's efficiency and <br> profitability, or simply want to learn more about how AI can benefit <br> your company, please contact me. I look forward to helping <br> you achieve your goals with AI.</font>
+			<td align="left" width="50%">
+		<p align="left">
+			<font style="font-family:'Courier New'" align="left" face="sans-serif" size="7" color="#f00">I also offer dashboard development services using C++ and C# languages. With experience working in these languages, I have the ability to create customizable and easy-to-use dashboards for data tracking and performance analysis.
+				
+My dashboards are developed with the intention of providing a clear and intuitive view of data, allowing you to make informed decisions and increase the efficiency of your business. In addition, the dashboards are designed to be accessible on any device, including computers and mobile devices, allowing you to access your data anywhere, anytime.
+				
+If you are interested in improving your business efficiency and decision-making with a customized dashboard, please contact me to discuss your needs.</font>
 		</p>
 			</td>
 		</tr>
