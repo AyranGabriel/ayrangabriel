@@ -370,7 +370,7 @@ This project counts with a team of young enthusiasts that are attending or have 
 				<div style="display: inline_block"><br>
 					<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/posts/ayran-gabriel-9b23ab246_obmep-matematica-ifba-activity-6972559674445316098-YJzL?utm_source=share&utm_medium=member_desktop">
 						<img align="right" class="animated-gif" alt="Gif6_Ayran_Copyright" height="420" style="border-radius:50px;" 
-					src="https://media.licdn.com/dms/image/C4D22AQFYzmKrI6ru6Q/feedshare-shrink_800/0/1662387768147?e=1677715200&v=beta&t=gKKMEMtIb31blWRcR6GjnperpOzv4edl6j9M6rIVdeg"></a>
+					src="https://media.licdn.com/dms/image/C4D22AQFYzmKrI6ru6Q/feedshare-shrink_2048_1536/0/1662387768159?e=1680739200&v=beta&t=EUk7X_7roPQRUg_orfCzlE_aMjdiwn_dDmPJakZZHNA"></a>
 				</div>
 			</td>
 		</tr>
