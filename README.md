@@ -196,7 +196,7 @@ With my game development skills, I can create custom games according to your nee
 			<td align="right">
 				<div style="display: inline_block"><br>
 					<img align="right" class="animated-gif" alt="Gif5_Ayran_Copyright" height="420" style="border-radius:50px;" 
-					src="https://thumbs.gfycat.com/FaroffGracefulBoto-size_restricted.gif">
+				src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp4YTAzMm56cm0yOWdhbjZpZXM1MGN1OXNxdjVhd3I2a3F3d2t2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NWq8IgIaCv2pG15wXp/giphy.gif">
 				</div>
 			</td>
 		</tr>
@@ -258,7 +258,7 @@ With my game development skills, I can create custom games according to your nee
 			<td align="right">
 				<div style="display: inline_block"><br>
 					<img align="right" class="animated-gif" height="450" style="border-radius:50px;" 
-					src="https://thumbs.gfycat.com/AptMelodicItaliangreyhound-size_restricted.gif">
+				src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRmNzA3d2I0cWZscjVyM2Izb3QybDk2Ym43eWRqNDg5bGd1dWZnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPrzoi6rbZc4aDC/giphy.gif">
 				</div>
 			</td>
 		</tr>
@@ -370,7 +370,7 @@ This project counts with a team of young enthusiasts that are attending or have 
 				<div style="display: inline_block"><br>
 					<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/posts/ayran-gabriel-9b23ab246_obmep-matematica-ifba-activity-6972559674445316098-YJzL?utm_source=share&utm_medium=member_desktop">
 						<img align="right" class="animated-gif" alt="Gif6_Ayran_Copyright" height="420" style="border-radius:50px;" 
-					src="https://media.licdn.com/dms/image/C4D22AQFYzmKrI6ru6Q/feedshare-shrink_2048_1536/0/1662387768159?e=1680739200&v=beta&t=EUk7X_7roPQRUg_orfCzlE_aMjdiwn_dDmPJakZZHNA"></a>
+					src="https://media.licdn.com/dms/image/C4D22AQFYzmKrI6ru6Q/feedshare-shrink_800/0/1662387768147?e=1709769600&v=beta&t=79Qh6BW7uK6fwLwQcKDrA5ZIXqUHw4rjmq09pEQJ5J4"></a>
 				</div>
 			</td>
 		</tr>
@@ -392,7 +392,7 @@ This project counts with a team of young enthusiasts that are attending or have 
 		</p>
 		<p align="center">
 			<font face="sans-serif" size="4" color="#000">
-				Turning ideas into smart solutions. 2023©
+				Turning ideas into smart solutions. 2024©
 			</font>
 		</p>
 </body>
